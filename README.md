@@ -20,18 +20,11 @@ Here are some ideas to get you started:
   
 <h3> 💻 Quem sou eu:</h3> 
       
-- ☕ 🖋️ &nbsp; <strong>Amo café, escrever e ensinar</strong>  
+- 🖋️ &nbsp; <strong>Amo café, escrever e ensinar</strong>  
 - :books: &nbsp; <strong>Clean code - Robert Cecil Martin</strong>
 - 🎓 &nbsp; <strong>Bootcamp {reprograma}</strong>
 - 🎓 &nbsp; <strong>FOCCA - Bacharel em Administração e MBA Gestão estratégica de pessoas</strong>
-- :computer: &nbsp; <strong>Estudando constantemente melhores práticas de programação e novas tecnologias</strong>
-
-<h3>:atom: Competências Técnicas: </h3>
-
-- 💻 &nbsp; <strong>Javascript e Node.js</strong>
-- 🌐 &nbsp; <strong>Stack Back-End (Desenvolvimento Web)</strong>
-- 🛢 &nbsp; <strong>MongoDb</strong>
-- 🔧 &nbsp; <strong>Git</strong>
+- :computer: &nbsp; <strong> Em constantemente evolução</strong>
 
 
   </br>
