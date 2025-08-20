@@ -13,14 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---><h2> Meu nome é <strong>Mrlon Alves</strong>. 
+--><h2> Olá, Meu nome é <strong>Mrlon Alves</strong>. 
 
-<h4>Aluno do embarque digital.<h4>
+<h4>Aluno do embarque digital, me aventurando em nova área.<h4>
       
   
 <h3> 💻 Quem sou eu:</h3> 
       
-- ⚽✨ &nbsp; <strong>apaixonado por espotes, cinema e novos desafios</strong>  
+- ⚽✨🎦&nbsp; <strong>apaixonado por espotes, cinema e novos desafios</strong>
 - :computer: &nbsp; <strong>Estudando constantemente em busca de conhecimento </strong>
 
 
