@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 - 🖋️ &nbsp; <strong>Amo café, escrever e ensinar</strong>  
 - :books: &nbsp; <strong>Clean code - Robert Cecil Martin</strong>
 - 🎓 &nbsp; <strong>Bootcamp {reprograma}</strong>
-- 🎓 &nbsp; <strong>FOCCA - Bacharel em Administração e MBA Gestão estratégica de pessoas</strong>
-- :computer: &nbsp; <strong> Em constantemente evolução</strong>
+- :computer: &nbsp; <strong> Em constante evolução</strong>
 
 
   </br>
