@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><h2> Olá, Meu nome é <strong>Marlon Alves <img src= "imagehttps://media.fortniteapi.io/images/WID_Athena_SunRose_Zeus_Lightning.png</strong">. 
 
-# 👋 Olá, eu sou o Marlon  
+# 👋 Olá, eu sou o Marlon Alves 
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**  
 📚 Cursando o **5º período de Educação Física** na **UPE**  
