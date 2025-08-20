@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
 <h3> 💻 Quem sou eu:</h3> 
       
-- ⚽✨🎦&nbsp; <strong>apaixonado por espotes, cinema e novos desafios</strong>
+- ⚽🎦&nbsp; <strong>apaixonado por espotes, cinema e novos desafios</strong>
 - :computer: &nbsp; <strong>Estudando constantemente em busca de conhecimento </strong>
 
 
@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
   </br>
 <div align="center">
-<a href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Tereza25"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tereza25&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
+<a href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=marlonalessandro"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=marlonalessandro&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
 </a>
 </div>
