@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<!-- Banner -->
-<!-- Banner centralizado -->
+<!-- Banner centralizado tipo capa -->
 <p align="center">
-  <img src="https://conteudo.imguol.com.br/c/especiais/esporte/_2021/futuro-chegou/nanoesportes-01.jpg" alt="Banner do Marlon" width="50%">
+  <img src="https://conteudo.imguol.com.br/c/especiais/esporte/_2021/futuro-chegou/nanoesportes-01.jpg" alt="Banner do Marlon" width="1600" height="400">
 </p>
 
 <!-- Título principal centralizado -->
