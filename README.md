@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
 <h3> 💻 Quem sou eu:</h3> 
       
-- 🖋️ &nbsp; <strong>Amo café, escrever e ensinar</strong>  
+- 🖋️ &nbsp; <strong> iniciando </strong>  
 - :books: &nbsp; <strong>Clean code - Robert Cecil Martin</strong>
 - 🎓 &nbsp; <strong>Bootcamp {reprograma}</strong>
 - :computer: &nbsp; <strong> Em constante evolução</strong>
