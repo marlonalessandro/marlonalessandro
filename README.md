@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- Banner -->
 <!-- Banner centralizado -->
 <p align="center">
-  <img src="https://conteudo.imguol.com.br/c/especiais/esporte/_2021/futuro-chegou/nanoesportes-01.jpg" alt="Banner do Marlon" width="100%">
+  <img src="https://conteudo.imguol.com.br/c/especiais/esporte/_2021/futuro-chegou/nanoesportes-01.jpg" alt="Banner do Marlon" width="75%">
 </p>
 
 <!-- Título principal centralizado -->
