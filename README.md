@@ -17,12 +17,15 @@ Here are some ideas to get you started:
 
 <h4> Cursando ADS pelo embarque digital .<h4>
       
+
   
 <h3> 💻 Quem sou eu:</h3> 
 - 
 - 🖋️ &nbsp; <strong> apaixonado por esportes, cinema, praias </strong>  
 - 🎓 &nbsp; <strong>Bootcamp {reprograma}</strong>
 - :computer: &nbsp; <strong> Em constante evolução</strong>
+
+
 
 
 
