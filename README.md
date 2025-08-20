@@ -13,13 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> <strong>Marlon Alves</strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+--> <strong>Marlon Alves</strong> <[img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif"](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.vecteezy.com%2Fpng-gratis%2Fzeus&psig=AOvVaw1OFjk0cLI6h83FbPIn5wCz&ust=1755735246052000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKirsNSNmI8DFQAAAAAdAAAAABAL) width="30px">
 
-Eu sou <strong>Marlon Alves</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Marlon Alves</strong>, <strong>graduando em ADS> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou em aprendizado constante: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
 
 <div align="center">
 
