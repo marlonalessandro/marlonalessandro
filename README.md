@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <!-- Banner -->
+<!-- Banner centralizado -->
 <p align="center">
-  <img src="https://conteudo.imguol.com.br/c/especiais/esporte/_2021/futuro-chegou/nanoesportes-01.jpg" alt="Banner" width="100%"/>
+  <img src="https://conteudo.imguol.com.br/c/especiais/esporte/_2021/futuro-chegou/nanoesportes-01.jpg" alt="Banner do Marlon" width="100%">
 </p>
 
-<!-- Título principal -->
+<!-- Título principal centralizado -->
 <h1 align="center"><strong>👋 Olá, eu sou o Marlon Alves</strong></h1>
 
 <!-- Sobre você -->
@@ -26,7 +27,8 @@ Here are some ideas to get you started:
 🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>Senac</strong><br>
 📚 Cursando o <strong>5º período de Educação Física</strong> na <strong>UPE</strong><br>
 💻 Apaixonado por <strong>tecnologia, saúde e qualidade de vida</strong><br>
-🎬 Fã de cinema | ⚡ Curioso por novos desafios | 📈 Sempre aprendendo
+🎬 Fã de cinema | ⚡ Curioso por novos desafios | 📈 Sempre aprendendo<br>
+🔗 Vivendo uma integração positiva entre <strong>Educação Física</strong> e <strong>Tecnologia</strong>
 </p>
 
 ---
