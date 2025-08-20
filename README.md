@@ -15,13 +15,36 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><h2> Olá, Meu nome é <strong>Marlon Alves <img src= "imagehttps://media.fortniteapi.io/images/WID_Athena_SunRose_Zeus_Lightning.png</strong">. 
 
-<h4>Aluno do embarque digital, me aventurando em nova área.<h4>
-      
-  
-<h3> 💻 Quem sou eu:</h3> 
-      
-- ⚽🎦&nbsp; <strong>apaixonado por espotes, cinema e novos desafios</strong>
-- :computer: &nbsp; <strong>Estudando constantemente em busca de conhecimento </strong>
+# 👋 Olá, eu sou o Marlon  
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**  
+📚 Cursando o **5º período de Educação Física** na **UPE**  
+💻 Apaixonado por **tecnologia, saúde e qualidade de vida**  
+🎬 Fã de cinema | ⚡ Curioso por novos desafios | 📈 Sempre aprendendo  
+
+🔗 Atualmente vivendo uma **imersão positiva entre Educação Física e Tecnologia**,  
+buscando conectar duas áreas que me inspiram: **movimento humano e inovação digital**.  
+
+---
+
+## 🚀 O que estou aprendendo agora
+- Lógica de programação e algoritmos  
+- Fundamentos de desenvolvimento de sistemas  
+- Aplicações de tecnologia voltadas ao fitness e qualidade de vida  
+
+---
+
+## 🎯 Interesses
+- 💪 Esportes e performance  
+- 💻 Desenvolvimento de software  
+- 🎥 Cinema e cultura pop  
+- 📖 Aprendizado contínuo e novos desafios  
+
+---
+
+
+---
+⭐ “Desenvolvendo visão multidisciplinar: saúde + tecnologia”
 
 
 
