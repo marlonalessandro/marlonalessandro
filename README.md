@@ -22,15 +22,12 @@ Here are some ideas to get you started:
 💻 Apaixonado por **tecnologia, saúde e qualidade de vida**  
 🎬 Fã de cinema | ⚡ Curioso por novos desafios | 📈 Sempre aprendendo  
 
-🔗 Atualmente vivendo uma **imersão positiva entre Educação Física e Tecnologia**,  
-buscando conectar duas áreas que me inspiram: **movimento humano e inovação digital**.  
 
 ---
 
 ## 🚀 O que estou aprendendo agora
 - Lógica de programação e algoritmos  
 - Fundamentos de desenvolvimento de sistemas  
-- Aplicações de tecnologia voltadas ao fitness e qualidade de vida  
 
 ---
 
