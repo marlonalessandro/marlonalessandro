@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
---->#h1 <strong>👋 Olá, eu sou o Marlon Alves<strong>
+---> #h1<strong>👋 Olá, eu sou o Marlon Alves<strong>
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**  
 📚 Cursando o **5º período de Educação Física** na **UPE**  
