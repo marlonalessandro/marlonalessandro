@@ -13,15 +13,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![banner](https://conteudo.imguol.com.br/c/especiais/esporte/_2021/futuro-chegou/nanoesportes-01.jpg)
+<!-- Banner -->
+<p align="center">
+  <img src="https://conteudo.imguol.com.br/c/especiais/esporte/_2021/futuro-chegou/nanoesportes-01.jpg" alt="Banner" width="100%"/>
+</p>
 
----> <h1><strong>👋 Olá, eu sou o Marlon Alves<strong></h1>
+<!-- Título principal -->
+<h1 align="center"><strong>👋 Olá, eu sou o Marlon Alves</strong></h1>
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **Senac**  
-📚 Cursando o **5º período de Educação Física** na **UPE**  
-💻 Apaixonado por **tecnologia, saúde e qualidade de vida**  
-🎬 Fã de cinema | ⚡ Curioso por novos desafios | 📈 Sempre aprendendo  
-
+<!-- Sobre você -->
+<p align="center">
+🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>Senac</strong><br>
+📚 Cursando o <strong>5º período de Educação Física</strong> na <strong>UPE</strong><br>
+💻 Apaixonado por <strong>tecnologia, saúde e qualidade de vida</strong><br>
+🎬 Fã de cinema | ⚡ Curioso por novos desafios | 📈 Sempre aprendendo
+</p>
 
 ---
 
@@ -39,15 +45,13 @@ Here are some ideas to get you started:
 
 ---
 
-
----
 ⭐ “Desenvolvendo visão multidisciplinar: saúde + tecnologia”
 
+---
 
-
-
-  </br>
+<!-- Estatísticas do GitHub -->
 <div align="center">
-<a href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=marlonalessandro"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=marlonalessandro&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
-</a>
+  <a href="https://github.com/marlonalessandro">
+    <img src="https://github-readme-stats.vercel.app/api?username=marlonalessandro&show_icons=true&include_all_commits=true&theme=radical" alt="Estatísticas do GitHub"/>
+  </a>
 </div>
