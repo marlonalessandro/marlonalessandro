@@ -13,21 +13,31 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> <strong>Marlon Alves</strong> <img src="https://static.vecteezy.com/system/resources/previews/023/661/490/non_2x/ancient-zeus-myth-artwork-for-tshirt-free-png.png" width="50px">
+--><h2> Meu nome é <strong>MARLON ALVES</strong>. 
 
-Eu sou <strong>Marlon Alves</strong>, <strong>graduando em ADS> 👨🏻‍💻 
+<h4> Cursando ADS pelo embarque digital .<h4>
+      
+  
+<h3> 💻 Quem sou eu:</h3> 
+      
+- ☕ 🖋️ &nbsp; <strong>Amo café, escrever e ensinar</strong>  
+- :books: &nbsp; <strong>Clean code - Robert Cecil Martin</strong>
+- 🎓 &nbsp; <strong>Bootcamp {reprograma}</strong>
+- 🎓 &nbsp; <strong>FOCCA - Bacharel em Administração e MBA Gestão estratégica de pessoas</strong>
+- :computer: &nbsp; <strong>Estudando constantemente melhores práticas de programação e novas tecnologias</strong>
 
-- 🚀 Atualmente estou em aprendizado constante: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
+<h3>:atom: Competências Técnicas: </h3>
 
+- 💻 &nbsp; <strong>Javascript e Node.js</strong>
+- 🌐 &nbsp; <strong>Stack Back-End (Desenvolvimento Web)</strong>
+- 🛢 &nbsp; <strong>MongoDb</strong>
+- 🔧 &nbsp; <strong>Git</strong>
+
+
+  </br>
 <div align="center">
-
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
-
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+<a href="https://github-readme-stats-anuraghazra1.vercel.app/api?username=marlonalessandro"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Tereza25&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
+</a>
+</div>
 
 </div>
