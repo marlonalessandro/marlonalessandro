@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <!-- Banner centralizado tipo capa -->
 <p align="center">
-  <img src="https://conteudo.imguol.com.br/c/especiais/esporte/_2021/futuro-chegou/nanoesportes-01.jpg" alt="Banner do Marlon" width="1400" height="200">
+  <img src="https://conteudo.imguol.com.br/c/especiais/esporte/_2021/futuro-chegou/nanoesportes-01.jpg" alt="Banner do Marlon" width="1400" height="250">
 </p>
 
 <!-- Título principal centralizado -->
