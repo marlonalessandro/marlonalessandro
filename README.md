@@ -28,10 +28,19 @@ Here are some ideas to get you started:
 💻 Apaixonado por <strong>tecnologia, saúde e qualidade de vida</strong><br>
 🎬 Fã de cinema | ⚡ Curioso por novos desafios | 📈 Sempre aprendendo<br>
 🔗 Vivendo uma integração positiva entre <strong>Educação Física</strong> e <strong>Tecnologia</strong>
+
+   <a href="#" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
+
+  <a href="#" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+
 </p>
 
 ---
-<!-- Título principal centralizado -->
  <a href="#" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
