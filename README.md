@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 ---
-
+<!-- Título principal centralizado -->
  <a href="#" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <a href="#" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 
-    ---
+  
 
 ## 🚀 O que estou aprendendo agora
 - Lógica de programação e algoritmos  
