@@ -28,7 +28,8 @@ Here are some ideas to get you started:
 💻 Apaixonado por <strong>tecnologia, saúde e qualidade de vida</strong><br>
 🎬 Fã de cinema | ⚡ Curioso por novos desafios | 📈 Sempre aprendendo<br>
 🔗 Vivendo uma integração positiva entre <strong>Educação Física</strong> e <strong>Tecnologia</strong>
-   <a href="#" alt="Gmail">
+  
+   <p href="#" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
   <a href="#" alt="Linkedin">
